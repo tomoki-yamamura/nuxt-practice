@@ -1,7 +1,3 @@
 <template>
-  <div>
-    <NuxtLayout>
-      <NuxtPage />
-    </NuxtLayout>
-  </div>
+  <img src="/img/nuxt.png" alt="Discover Nuxt 3" />
 </template>
