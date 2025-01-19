@@ -1,3 +1,6 @@
 <template>
-  <img src="/img/nuxt.png" alt="Discover Nuxt 3" />
+  <div>
+    <p>Hello world</p>
+    <NuxtPage /> 
+  </div>
 </template>
